@@ -1,0 +1,81 @@
+.bg{
+    background-color: #7B7B7B29;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 1000vh;
+}
+.contenair{
+    display: inline-block;
+    justify-content: center;
+    width: 400px;
+    height: 600px;
+    margin-top: 20%;
+    border: 2px solid #67676729 ;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    box-shadow: grey 10px 10px 10px 1px;
+    
+}
+.chaild{
+    display: flex;
+    justify-content: center;
+    border: #67676729;
+    border-radius: 20px;
+    box-shadow: gray 3px 3px 3px 3px;
+    margin: auto;
+    width: 300px;
+    height: 40px;
+    margin-top: 50px;
+    gap: 10px;
+
+    
+}
+.prepBytes{
+    width: 300px;
+    /* height: 50px; */
+    display: flex;
+    text-align: center;
+    
+}
+
+.chaild .img2{
+    border-radius: 50%;
+    padding-top: 10px;
+
+}
+.form{
+    width: 300px;
+    height: 50px;
+    display: inline-block;
+    text-align: center;
+    margin-top: 20px;
+    line-height: 40px;
+    margin-left: 40px;
+}
+.form .twobtn{
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.inputtext{
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+}
+.btn1{
+    background-color: black;
+    color: white;
+}
+.btn2{
+    background-color: #FFFFFF;
+    font-weight: bold;
+}
+.dnt{
+    color: grey;
+    padding-top: 10px;
+}
+.sin{
+    margin-top: -20px;
+}
